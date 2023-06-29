@@ -110,3 +110,9 @@ form input[type="submit"]:hover {
 .timedivs{
     font-weight: bold;
 }
+l1{
+    color: rgb(255, 255, 255);
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
